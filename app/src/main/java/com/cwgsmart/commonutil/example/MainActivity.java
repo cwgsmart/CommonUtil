@@ -1,9 +1,12 @@
-package com.cwgsmart.commonutil;
+package com.cwgsmart.commonutil.example;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.util.Log;
+
+import com.cwgsmart.commonutil.FilesUtils;
+import com.cwgsmart.commonutil.StringUtils;
 
 import java.io.File;
 import java.io.IOException;
